@@ -1,0 +1,22 @@
+.ARbuttons{
+    margin-left: 80px;
+    margin-right: 15px;
+
+}
+
+#Accept:hover{
+    background-color: #04af56;
+}
+
+#Reject:hover{
+    background-color: #d20404
+}
+
+
+.card-content white-text{
+    /* text-align: center; */
+    /* align-items: left; */
+    align-items: inherit
+    
+    
+}
